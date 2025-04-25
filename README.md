@@ -1,0 +1,1 @@
+# obsidian-footnote-cornell-plugin
